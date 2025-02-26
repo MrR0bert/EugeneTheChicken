@@ -1,0 +1,12 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1672008800</GUID>
+      <Text>Eugene</Text>
+    </Text>
+    <Text>
+      <GUID>1672008801</GUID>
+      <Text>Eugene is the emotional support chicken of Alonso Graves, he was rescued by Rantius in the siege of Gristle in episode 37. After being kidnapped by lady Margaret Hunt, he is now living his happiest life in Constantinople!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

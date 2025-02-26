@@ -1,0 +1,49 @@
+<ModOps>
+  <ModOp GUID="112574" Type="addNextSibling">
+    <Asset>
+      <Template>CultureItem</Template>
+      <Values>
+        <Standard>
+          <GUID>1672008800</GUID>
+          <Name>Eugene</Name>
+          <IconFilename>data/graphics/icons/icon_eugene.png</IconFilename>
+          <InfoDescription>1672008801</InfoDescription>
+        </Standard>
+        <Text>
+            <LocaText>
+              <English>
+                  <Text>Eugene</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+              </English>
+            </LocaText>
+            <LineID>26432</LineID>
+        </Text>
+        <Item>
+            <Rarity>Legendary</Rarity>
+            <Allocation>Zoo</Allocation>
+            <TradePrice>1100000</TradePrice>
+        </Item>
+        <Cost />
+        <CultureUpgrade>
+          <ChangeModule>101986</ChangeModule>
+          <ForcedFeedbackVariation>1000042</ForcedFeedbackVariation>
+          <AttractivenessUpgrade>
+            <Value>50</Value>
+          </AttractivenessUpgrade>
+          <AdditionalModuleSoundLoop>203303</AdditionalModuleSoundLoop>
+        </CultureUpgrade>
+        <BuildingUpgrade />
+      <ExpeditionAttribute>
+        <BaseMorale>0</BaseMorale>
+        <ExpeditionAttributes>
+          <Item>
+            <Attribute>Hunting</Attribute>
+            <Amount>50</Amount>
+          </Item>
+        </ExpeditionAttributes>
+      </ExpeditionAttribute>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>
