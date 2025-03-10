@@ -20,5 +20,13 @@
       <GUID>1672008804</GUID>
       <Text>The official banner of the Rantium Empire!</Text>
     </Text>
+    <Text>
+      <GUID>1672008820</GUID>
+      <Text>The Ratium Cargo Hauler</Text>
+    </Text>
+    <Text>
+      <GUID>1672008805</GUID>
+      <Text>A small cargo ship...</Text>
+    </Text>
   </ModOp>
 </ModOps>
